@@ -1,0 +1,4 @@
+baseURL: "https://design-patterns-by-php.hulin.ink/"
+languageCode: "en-us"
+title: "design-patterns-by-php"
+theme: "book"
